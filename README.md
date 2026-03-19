@@ -11,7 +11,12 @@ Links to my main projects in data science, machine learning, and software develo
 ### BackEnd
 - [BackEnd---Camada-de-transporte-TCP](https://github.com/JoaoAltarugio/BackEnd---Camada-de-transporte-TCP)
 - [BackEnd---Camada-de-enlace-SLIP](https://github.com/JoaoAltarugio/BackEnd---Camada-de-enlace-SLIP)
+- [Video-Conferencing-Tool-Python-ZeroMQ](https://github.com/JoaoAltarugio/Video-Conferencing-Tool-Python-ZeroMQ)
+
+### Python + AED + ML
+- [Cardiac-Disease-ML-Prediction](https://github.com/JoaoAltarugio/Cardiac-Disease-ML-Prediction)
 
 ### Embedded Systems
 - [Embedded Systems – T-Rex VGA Game (FPGA)](https://github.com/JoaoAltarugio/Sistemas-Embarcados---TREX---VGA?tab=readme-ov-file)
 - [Embedded Systems – Stock Car Game (8051 / GLCD)](https://github.com/JoaoAltarugio/Sistemas-Embarcados---Stock-Car---GLCD)
+
